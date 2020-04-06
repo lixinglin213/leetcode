@@ -14,14 +14,14 @@ import java.util.Arrays;
  * @date 2020/4/6 5:18 下午
  * @since jdk 1.8
  */
-public class MaxProfit {
+public class MaxProfit_easy {
 
     public static void main(String[] args) {
 
         int[] nums = {7, 6, 4, 3, 2, 1};
         int[] nums2 = {7, 1, 5, 3, 6, 4};
         int[] nums3 = {7, 2, 9, 1, 6};
-        int maxProfit = MaxProfit.maxProfit(nums3);
+        int maxProfit = MaxProfit_easy.maxProfit(nums3);
 
         System.out.print(Arrays.toString(nums3) + "的最大利润为:" + maxProfit);
     }
