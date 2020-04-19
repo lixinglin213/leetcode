@@ -14,7 +14,7 @@
 ├──  
 ├── --leetcode   
 ├──   
-├── [hanoi](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/leetcode/Hanoi.java) -- 汉诺塔问题 
+├── [hanoi](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/leetcode/Hanoi.java) -- 汉诺塔问题  
 ├── [LRUCahe](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/leetcode/LRUCache.java) -- 最近最少使用缓存  
 ├── [MaxProfit_easy](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/leetcode/MaxProfit_easy.java) -- 最大利润_easy  
 ├── [MaxProfit_medium](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/leetcode/MaxProfit_medium.java) -- 最大利润_medium  
@@ -30,5 +30,5 @@
 ├── --thread  
 ├──   
 ├── [DiningPhilosophers_1226_medium](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/thread/DiningPhilosophers_1226_medium.java) -- 哲学家进餐问题  
-├── [PrintBySort](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/thread/PrintBySort_1114_easy.java) -- 打印排序
+├── [PrintBySort](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/thread/PrintBySort_1114_easy.java) -- 打印排序  
 ├── [PrintFooBar](https://github.com/lixinglin213/leetcode/blob/master/algorithm/src/thread/PrintFooBar_1115_medium.java) -- 交替打印foobar  
