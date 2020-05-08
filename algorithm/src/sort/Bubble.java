@@ -13,11 +13,11 @@ public class Bubble {
 
     public static void main(String[] args) {
         int[] nums = {4, 2, 1, 1, 6, 3};
-        int[] sort = Bubble.sort(nums);
-        System.out.print(Arrays.toString(sort));
+        Bubble.sort(nums);
+        System.out.print(Arrays.toString(nums));
     }
 
-    public static int[] sort(int[] nums) {
+    public static void sort(int[] nums) {
         for (int i = 0; i < nums.length; i++) {
             for (int j = nums.length - 1; j > i; j--) {
 
@@ -29,7 +29,7 @@ public class Bubble {
 
             }
         }
-        return nums;
     }
+
 
 }
